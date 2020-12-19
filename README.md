@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h1 align="center">I'm a FullStack Software Developer</h1>
-![trophy](https://github-profile-trophy.vercel.app/?username=linuxuser07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=linuxuser07&theme=onedark)](https://github.com/linuxuser07/github-profile-trophy)
 
 <!--
 **linuxuser07/linuxuser07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
