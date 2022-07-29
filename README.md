@@ -2,7 +2,7 @@
 <h1 align="center">I'm a FullStack Software Developer</h1>
 <p align="center"> <a href="https://github.com/linuxuser07/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linuxuser07&theme=onedark" alt="linuxuser07" /></a> </p>
 
-- 🔭 I’m currently working on 2 start ups [MyAddo](www.myaddo.com) and [RFX Solutions](www.rfxsolutions.com)
+- 🔭 I’m currently working on 2 start ups [MyAddo](https://www.myaddo.com) and [RFX Solutions](https://www.rfxsolutions.com)
 
 - 🌱 I’m currently learning how to learn, and react native
 
