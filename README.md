@@ -14,10 +14,6 @@
 
 - ⚡ Fun fact: I speak spanish (Fluent, written and spoken) if you need help with it let me know
 
-<p align="center">
-  <a href="https://twitter.com/Fernando_vue" target="blank"><img src="https://img.shields.io/twitter/follow/Fernando_vue?logo=twitter&style=for-the-badge" alt="Fernando_vue" /></a> 
-</p>
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/fernandoruiz07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fernandoruiz07" height="30" width="40" /></a>
