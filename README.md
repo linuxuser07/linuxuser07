@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Vue, Typescript, C#, or React, react native redux***
 
-- 📫 How to reach me: **fernando@voidbits.com**
 
 - 👯 I love to collab with anyone trying to improve themselves or trying to make it on this field.
 
