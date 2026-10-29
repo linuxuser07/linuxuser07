@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Fernando Ruiz — Founding Engineer</title>
+  <desc id="desc">Full stack and mobile engineer building products from concept to production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152338"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#54e4c5"/><stop offset="1" stop-color="#a69aff"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#7793b5" opacity=".15"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1598" height="398" rx="24" fill="url(#bg)" stroke="#2b4059"/>
+  <rect x="2" y="2" width="1596" height="396" rx="24" fill="url(#grid)"/>
+  <path d="M930 0 L815 400" stroke="#3c546c" opacity=".3"/>
+  <path d="M960 0 L845 400" stroke="#3c546c" opacity=".15"/>
+  <rect x="58" y="61" width="8" height="8" rx="4" fill="#54e4c5"/>
+  <text x="82" y="74" fill="#96abc2" font-family="monospace" font-size="22" letter-spacing="2">linuxuser07</text>
+  <text x="56" y="174" fill="#f3f7fc" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-2">Fernando Ruiz</text>
+  <text x="60" y="231" fill="#d1deec" font-family="Arial, Helvetica, sans-serif" font-size="30">Founding Engineer · Full Stack &amp; Mobile</text>
+  <rect x="60" y="264" width="176" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="317" fill="#96abc2" font-family="Arial, Helvetica, sans-serif" font-size="23">Building products from concept to production.</text>
+  <rect x="1058" y="63" width="470" height="272" rx="16" fill="#0b1422" stroke="#354b65"/>
+  <path d="M1059 110 H1527" stroke="#263b53"/>
+  <circle cx="1086" cy="87" r="6" fill="#ff8e8e"/>
+  <circle cx="1108" cy="87" r="6" fill="#f4c66d"/>
+  <circle cx="1130" cy="87" r="6" fill="#54e4c5"/>
+  <text x="1162" y="93" fill="#96abc2" font-family="monospace" font-size="16">product.ts</text>
+  <g font-family="monospace" font-size="25">
+    <text x="1091" y="158" fill="#a69aff">const <tspan fill="#f3f7fc">focus</tspan> = {</text>
+    <text x="1119" y="202" fill="#96abc2">  interfaces: <tspan fill="#54e4c5">"intuitive"</tspan>,</text>
+    <text x="1119" y="246" fill="#96abc2">  systems: <tspan fill="#54e4c5">"reliable"</tspan></text>
+    <text x="1091" y="290" fill="#a69aff">};</text>
+  </g>
+  <rect x="60" y="369" width="1480" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+</svg>
